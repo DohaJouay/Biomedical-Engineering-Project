@@ -19,4 +19,6 @@ bronchus with deformities, i.e. in a person with asthma, the results found are t
 
 ## Documents uploaded
 
-The files uploaded contain all the code realized in Matlab for the study of the bronchi with and without asthma. 
+The files uploaded contain all the code realized in Matlab for the study of the bronchi with and without asthma.
+
+For more infos about the project, the results obtained and their interpretation, you can contact me (doha.jouay@emines.um6p.ma)
